@@ -101,13 +101,13 @@ class Developer:
 
 ## `05 // GITHUB_ANALYTICS`
 
-<div align="center">
+<div align="center" width"100%" >
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Innovative-Coding&show_icons=true&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E8DFFF&icon_color=BD5CFF&rank_icon=github" alt="GitHub statistics for Innovative-Coding"/>
+<div class="info1" width"100%" ><img width"100%" height="165" src="https://github-readme-stats.vercel.app/api?username=Innovative-Coding&show_icons=true&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E8DFFF&icon_color=BD5CFF&rank_icon=github" alt="GitHub statistics for Innovative-Coding"/><div/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innovative-Coding&layout=compact&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E8DFFF" alt="Most used languages"/>
+<div class=info2 width"100%" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innovative-Coding&layout=compact&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E8DFFF" alt="Most used languages"/></div>
 
-<img src="https://streak-stats.demolab.com?user=Innovative-Coding&hide_border=true&background=090014&ring=BD5CFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E8DFFF&dates=9B8AAE" alt="GitHub contribution streak"/>
+<div class="info3" width"100%" ><img width"100%" src="https://streak-stats.demolab.com?user=Innovative-Coding&hide_border=true&background=090014&ring=BD5CFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E8DFFF&dates=9B8AAE" alt="GitHub contribution streak"/><div/>
 
 </div>
 
